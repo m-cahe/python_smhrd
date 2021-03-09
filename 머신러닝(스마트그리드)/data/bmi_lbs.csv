@@ -1,0 +1,501 @@
+Label,Gender,Height,Weight(lbs)
+Obesity,Male,174,211.6416
+Normal,Male,189,191.80020000000002
+Obesity,Female,185,242.506
+Overweight,Female,195,229.2784
+Overweight,Male,149,134.4806
+Overweight,Male,189,229.2784
+Extreme Obesity,Male,147,202.8232
+Extreme Obesity,Male,154,244.7106
+Overweight,Male,174,198.41400000000002
+Obesity,Female,169,227.0738
+Normal,Male,195,178.57260000000002
+Obesity,Female,159,176.368
+Overweight,Female,192,222.6646
+Normal,Male,155,112.4346
+Normal,Male,191,174.1634
+Extreme Obesity,Female,153,235.8922
+Extreme Obesity,Female,157,242.506
+Extreme Obesity,Male,140,284.39340000000004
+Extreme Obesity,Male,144,319.66700000000003
+Extreme Obesity,Male,172,306.43940000000003
+Extreme Obesity,Male,157,242.506
+Extreme Obesity,Female,153,328.4854
+Obesity,Female,169,213.8462
+Extreme Obesity,Male,185,306.43940000000003
+Normal,Female,172,147.7082
+Overweight,Female,151,141.0944
+Overweight,Male,190,209.437
+Weak,Male,187,136.6852
+Extreme Obesity,Female,163,350.5314
+Extreme Obesity,Male,179,335.0992
+Extreme Obesity,Male,153,266.7566
+Weak,Male,178,114.6392
+Weak,Female,195,143.299
+Extreme Obesity,Female,160,288.80260000000004
+Extreme Obesity,Female,157,337.3038
+Obesity,Female,189,291.0072
+Overweight,Female,197,251.32440000000003
+Obesity,Male,144,176.368
+Extreme Obesity,Female,171,335.0992
+Normal,Female,185,178.57260000000002
+Obesity,Female,175,264.552
+Extreme Obesity,Female,149,238.0968
+Normal,Male,157,123.45760000000001
+Extreme Obesity,Male,161,260.1428
+Obesity,Female,182,277.7796
+Normal,Male,185,167.5496
+Obesity,Female,188,268.9612
+Obesity,Male,181,244.7106
+Overweight,Male,161,158.7312
+Extreme Obesity,Male,140,335.0992
+Extreme Obesity,Female,168,297.62100000000004
+Weak,Female,176,119.0484
+Extreme Obesity,Male,163,242.506
+Obesity,Male,172,231.483
+Obesity,Male,196,255.73360000000002
+Overweight,Female,187,196.20940000000002
+Obesity,Male,172,202.8232
+Extreme Obesity,Male,178,279.9842
+Overweight,Female,164,154.322
+Extreme Obesity,Male,143,194.00480000000002
+Extremely Weak,Female,191,119.0484
+Extreme Obesity,Female,141,315.25780000000003
+Extremely Weak,Male,193,119.0484
+Normal,Male,190,182.98180000000002
+Extreme Obesity,Male,175,297.62100000000004
+Extreme Obesity,Female,179,348.3268
+Obesity,Female,172,211.6416
+Normal,Female,168,130.0714
+Obesity,Female,164,180.77720000000002
+Obesity,Female,194,299.8256
+Normal,Female,153,112.4346
+Obesity,Male,178,257.9382
+Extreme Obesity,Male,141,176.368
+Normal,Male,180,165.345
+Overweight,Female,185,220.46
+Obesity,Female,197,339.5084
+Obesity,Male,165,229.2784
+Obesity,Female,168,198.41400000000002
+Obesity,Female,176,268.9612
+Extremely Weak,Male,181,112.4346
+Overweight,Male,164,165.345
+Extreme Obesity,Female,166,308.644
+Overweight,Female,190,231.483
+Obesity,Male,186,260.1428
+Extreme Obesity,Male,168,271.1658
+Extremely Weak,Male,198,110.23
+Extreme Obesity,Female,175,310.84860000000003
+Extreme Obesity,Male,145,257.9382
+Extreme Obesity,Female,159,229.2784
+Extreme Obesity,Female,185,308.644
+Extreme Obesity,Female,178,339.5084
+Overweight,Female,183,211.6416
+Overweight,Female,194,244.7106
+Normal,Male,177,134.4806
+Obesity,Male,197,262.3474
+Extreme Obesity,Female,170,343.9176
+Obesity,Male,142,152.1174
+Extreme Obesity,Male,160,306.43940000000003
+Weak,Male,195,152.1174
+Extremely Weak,Female,190,110.23
+Obesity,Male,199,343.9176
+Extreme Obesity,Male,154,231.483
+Extreme Obesity,Male,161,341.713
+Obesity,Female,198,319.66700000000003
+Obesity,Female,192,308.644
+Obesity,Male,195,277.7796
+Extreme Obesity,Male,166,352.736
+Extreme Obesity,Male,159,339.5084
+Obesity,Female,181,233.6876
+Overweight,Male,149,145.5036
+Obesity,Female,150,154.322
+Extreme Obesity,Female,146,346.1222
+Obesity,Male,190,297.62100000000004
+Normal,Female,192,198.41400000000002
+Obesity,Female,177,211.6416
+Overweight,Male,148,132.276
+Normal,Female,165,125.66220000000001
+Extreme Obesity,Female,146,229.2784
+Extreme Obesity,Male,144,238.0968
+Extreme Obesity,Female,176,343.9176
+Obesity,Female,168,191.80020000000002
+Obesity,Male,187,268.9612
+Obesity,Male,187,304.2348
+Extreme Obesity,Female,184,352.736
+Extreme Obesity,Female,158,328.4854
+Obesity,Male,158,211.6416
+Obesity,Male,194,253.52900000000002
+Obesity,Female,145,174.1634
+Extreme Obesity,Male,182,332.8946
+Normal,Male,154,119.0484
+Extreme Obesity,Female,168,306.43940000000003
+Normal,Female,187,154.322
+Extreme Obesity,Female,158,337.3038
+Obesity,Female,167,242.506
+Extreme Obesity,Female,171,341.713
+Extreme Obesity,Female,183,330.69
+Extreme Obesity,Female,190,343.9176
+Overweight,Male,194,238.0968
+Extreme Obesity,Male,171,324.07620000000003
+Extreme Obesity,Male,159,273.3704
+Normal,Female,169,119.0484
+Obesity,Female,167,187.39100000000002
+Extreme Obesity,Male,180,328.4854
+Extreme Obesity,Male,163,271.1658
+Extreme Obesity,Male,140,174.1634
+Obesity,Male,197,275.575
+Overweight,Male,194,233.6876
+Extreme Obesity,Female,140,321.8716
+Overweight,Male,195,216.0508
+Overweight,Female,168,253.52900000000002
+Extremely Weak,Female,196,110.23
+Overweight,Male,140,114.6392
+Overweight,Female,150,132.276
+Extreme Obesity,Female,168,308.644
+Extreme Obesity,Female,155,244.7106
+Obesity,Female,179,227.0738
+Overweight,Female,182,185.18640000000002
+Extreme Obesity,Male,168,352.736
+Overweight,Female,187,224.8692
+Obesity,Male,181,231.483
+Normal,Male,199,218.2554
+Normal,Female,184,167.5496
+Overweight,Male,192,222.6646
+Extreme Obesity,Female,182,315.25780000000003
+Obesity,Female,172,244.7106
+Normal,Male,181,171.9588
+Obesity,Male,176,240.3014
+Extreme Obesity,Female,156,233.6876
+Overweight,Female,151,147.7082
+Normal,Female,188,176.368
+Obesity,Male,187,299.8256
+Extreme Obesity,Male,174,304.2348
+Extreme Obesity,Male,167,332.8946
+Obesity,Female,196,288.80260000000004
+Obesity,Male,197,328.4854
+Obesity,Female,185,262.3474
+Obesity,Female,170,224.8692
+Overweight,Female,181,207.2324
+Extreme Obesity,Female,166,277.7796
+Overweight,Male,188,220.46
+Overweight,Female,162,163.1404
+Obesity,Male,177,257.9382
+Obesity,Male,162,213.8462
+Normal,Male,180,160.9358
+Overweight,Female,192,238.0968
+Overweight,Male,165,176.368
+Extreme Obesity,Female,167,297.62100000000004
+Overweight,Female,182,185.18640000000002
+Extreme Obesity,Female,161,295.4164
+Obesity,Male,158,209.437
+Extreme Obesity,Male,141,187.39100000000002
+Extreme Obesity,Male,154,220.46
+Obesity,Male,165,231.483
+Extreme Obesity,Female,142,302.03020000000004
+Extreme Obesity,Male,141,207.2324
+Extreme Obesity,Male,145,238.0968
+Obesity,Male,157,163.1404
+Obesity,Female,177,257.9382
+Extreme Obesity,Female,166,317.4624
+Extreme Obesity,Male,193,332.8946
+Weak,Male,184,125.66220000000001
+Overweight,Male,179,205.0278
+Obesity,Female,156,196.20940000000002
+Obesity,Male,182,229.2784
+Extreme Obesity,Male,145,352.736
+Obesity,Female,150,191.80020000000002
+Extreme Obesity,Male,145,218.2554
+Obesity,Female,196,268.9612
+Overweight,Male,191,211.6416
+Obesity,Female,148,147.7082
+Obesity,Female,150,185.18640000000002
+Extreme Obesity,Male,148,341.713
+Extreme Obesity,Female,153,321.8716
+Extreme Obesity,Female,196,350.5314
+Extremely Weak,Female,185,114.6392
+Extreme Obesity,Female,171,288.80260000000004
+Extreme Obesity,Female,143,260.1428
+Extreme Obesity,Female,142,189.59560000000002
+Extreme Obesity,Female,141,277.7796
+Extreme Obesity,Male,159,240.3014
+Normal,Female,173,180.77720000000002
+Extreme Obesity,Male,183,304.2348
+Obesity,Female,152,198.41400000000002
+Extreme Obesity,Male,178,308.644
+Extremely Weak,Male,188,119.0484
+Extreme Obesity,Female,155,317.4624
+Overweight,Male,166,154.322
+Obesity,Male,188,271.1658
+Extreme Obesity,Female,171,264.552
+Extreme Obesity,Male,179,286.598
+Obesity,Female,186,302.03020000000004
+Normal,Female,153,171.9588
+Overweight,Female,184,189.59560000000002
+Overweight,Female,177,178.57260000000002
+Obesity,Male,145,171.9588
+Overweight,Male,170,178.57260000000002
+Extreme Obesity,Male,181,310.84860000000003
+Extreme Obesity,Male,165,341.713
+Normal,Female,174,143.299
+Extreme Obesity,Female,146,242.506
+Overweight,Male,178,187.39100000000002
+Normal,Male,166,134.4806
+Weak,Male,191,136.6852
+Extreme Obesity,Female,177,341.713
+Extremely Weak,Female,183,110.23
+Extreme Obesity,Male,151,251.32440000000003
+Overweight,Male,182,216.0508
+Extreme Obesity,Female,142,350.5314
+Overweight,Female,188,198.41400000000002
+Obesity,Male,161,196.20940000000002
+Overweight,Male,153,154.322
+Extreme Obesity,Male,140,315.25780000000003
+Extreme Obesity,Male,169,310.84860000000003
+Extreme Obesity,Female,162,350.5314
+Extreme Obesity,Male,183,324.07620000000003
+Normal,Female,162,127.86680000000001
+Obesity,Female,172,240.3014
+Extreme Obesity,Female,150,262.3474
+Extreme Obesity,Female,169,319.66700000000003
+Obesity,Female,184,291.0072
+Extreme Obesity,Male,159,229.2784
+Extreme Obesity,Male,163,288.80260000000004
+Extreme Obesity,Male,156,302.03020000000004
+Normal,Female,157,114.6392
+Obesity,Male,147,185.18640000000002
+Extreme Obesity,Male,141,189.59560000000002
+Extreme Obesity,Male,173,306.43940000000003
+Extreme Obesity,Male,154,319.66700000000003
+Extreme Obesity,Male,168,326.2808
+Weak,Male,168,110.23
+Extreme Obesity,Male,145,286.598
+Extreme Obesity,Male,152,227.0738
+Obesity,Female,187,266.7566
+Extremely Weak,Female,163,125.66220000000001
+Overweight,Male,178,182.98180000000002
+Overweight,Female,187,207.2324
+Obesity,Female,179,251.32440000000003
+Normal,Male,190,176.368
+Overweight,Male,172,165.345
+Weak,Male,188,125.66220000000001
+Weak,Male,193,143.299
+Extreme Obesity,Female,147,277.7796
+Extreme Obesity,Female,147,207.2324
+Obesity,Male,166,235.8922
+Obesity,Female,192,306.43940000000003
+Obesity,Male,181,306.43940000000003
+Obesity,Male,150,163.1404
+Extreme Obesity,Male,178,352.736
+Normal,Female,156,114.6392
+Extreme Obesity,Male,149,220.46
+Obesity,Male,156,163.1404
+Overweight,Male,183,231.483
+Overweight,Female,162,149.9128
+Obesity,Female,165,182.98180000000002
+Extreme Obesity,Female,168,315.25780000000003
+Extreme Obesity,Male,160,343.9176
+Normal,Female,169,194.00480000000002
+Obesity,Female,140,167.5496
+Overweight,Female,187,202.8232
+Obesity,Male,151,180.77720000000002
+Extreme Obesity,Female,186,308.644
+Obesity,Male,182,238.0968
+Normal,Male,188,178.57260000000002
+Obesity,Male,179,242.506
+Extreme Obesity,Female,156,277.7796
+Obesity,Male,188,251.32440000000003
+Extreme Obesity,Male,183,337.3038
+Extreme Obesity,Male,144,194.00480000000002
+Weak,Male,196,152.1174
+Extreme Obesity,Male,171,310.84860000000003
+Extreme Obesity,Male,171,324.07620000000003
+Extreme Obesity,Female,180,343.9176
+Extreme Obesity,Male,191,321.8716
+Normal,Female,179,147.7082
+Normal,Female,180,132.276
+Extreme Obesity,Female,154,291.0072
+Overweight,Male,188,218.2554
+Extreme Obesity,Male,142,297.62100000000004
+Obesity,Male,170,209.437
+Extreme Obesity,Male,152,310.84860000000003
+Obesity,Female,190,260.1428
+Obesity,Female,181,244.7106
+Extreme Obesity,Male,153,229.2784
+Extreme Obesity,Male,187,308.644
+Obesity,Female,144,145.5036
+Normal,Female,148,119.0484
+Normal,Female,199,202.8232
+Obesity,Female,167,187.39100000000002
+Overweight,Female,164,156.5266
+Overweight,Female,185,224.8692
+Extreme Obesity,Female,164,352.736
+Obesity,Male,142,156.5266
+Normal,Male,165,149.9128
+Normal,Female,172,136.6852
+Normal,Female,157,123.45760000000001
+Normal,Male,155,125.66220000000001
+Extreme Obesity,Female,167,337.3038
+Extreme Obesity,Female,164,277.7796
+Obesity,Female,189,275.575
+Extreme Obesity,Female,161,319.66700000000003
+Overweight,Female,155,156.5266
+Obesity,Female,171,260.1428
+Obesity,Female,154,202.8232
+Overweight,Male,179,182.98180000000002
+Obesity,Male,170,253.52900000000002
+Obesity,Female,184,233.6876
+Normal,Female,191,149.9128
+Normal,Male,162,127.86680000000001
+Extreme Obesity,Male,178,304.2348
+Normal,Female,157,132.276
+Normal,Male,184,182.98180000000002
+Normal,Male,197,194.00480000000002
+Normal,Female,160,112.4346
+Extreme Obesity,Male,184,337.3038
+Extremely Weak,Male,190,110.23
+Overweight,Male,174,198.41400000000002
+Obesity,Female,189,273.3704
+Extreme Obesity,Female,186,315.25780000000003
+Weak,Female,180,127.86680000000001
+Obesity,Female,186,326.2808
+Weak,Female,193,134.4806
+Obesity,Male,161,227.0738
+Extreme Obesity,Female,151,348.3268
+Obesity,Female,195,324.07620000000003
+Extreme Obesity,Female,184,335.0992
+Extreme Obesity,Male,141,176.368
+Overweight,Female,185,207.2324
+Obesity,Female,186,279.9842
+Extreme Obesity,Male,142,288.80260000000004
+Obesity,Female,147,147.7082
+Overweight,Male,151,136.6852
+Extreme Obesity,Female,160,273.3704
+Weak,Male,185,132.276
+Normal,Female,163,138.8898
+Obesity,Male,174,209.437
+Extreme Obesity,Female,150,317.4624
+Extreme Obesity,Male,142,200.61860000000001
+Extreme Obesity,Male,178,313.0532
+Extreme Obesity,Female,154,211.6416
+Overweight,Male,176,191.80020000000002
+Extreme Obesity,Male,159,264.552
+Weak,Male,191,136.6852
+Obesity,Male,177,257.9382
+Extreme Obesity,Male,151,339.5084
+Extreme Obesity,Female,182,328.4854
+Normal,Female,197,158.7312
+Extreme Obesity,Male,146,304.2348
+Obesity,Female,160,182.98180000000002
+Overweight,Female,157,145.5036
+Normal,Female,150,110.23
+Normal,Female,167,127.86680000000001
+Normal,Female,180,154.322
+Normal,Female,183,167.5496
+Overweight,Female,183,191.80020000000002
+Extreme Obesity,Female,152,339.5084
+Overweight,Female,164,156.5266
+Overweight,Male,187,211.6416
+Extreme Obesity,Male,169,299.8256
+Overweight,Female,149,134.4806
+Extreme Obesity,Male,163,302.03020000000004
+Overweight,Female,195,229.2784
+Obesity,Male,174,235.8922
+Normal,Male,182,154.322
+Obesity,Male,169,242.506
+Obesity,Male,193,286.598
+Extreme Obesity,Male,148,310.84860000000003
+Normal,Male,186,149.9128
+Extreme Obesity,Male,165,315.25780000000003
+Extreme Obesity,Female,146,271.1658
+Extreme Obesity,Female,166,293.21180000000004
+Weak,Male,179,123.45760000000001
+Obesity,Female,177,222.6646
+Extreme Obesity,Male,181,339.5084
+Extreme Obesity,Female,161,339.5084
+Extreme Obesity,Female,157,227.0738
+Obesity,Female,169,216.0508
+Extreme Obesity,Female,152,251.32440000000003
+Normal,Female,162,141.0944
+Extreme Obesity,Male,162,286.598
+Normal,Female,177,134.4806
+Weak,Female,195,134.4806
+Extreme Obesity,Male,140,321.8716
+Extreme Obesity,Female,186,321.8716
+Obesity,Female,178,235.8922
+Weak,Male,174,119.0484
+Weak,Female,180,130.0714
+Obesity,Male,188,310.84860000000003
+Obesity,Female,187,286.598
+Obesity,Female,153,169.7542
+Obesity,Female,165,209.437
+Normal,Female,178,174.1634
+Extreme Obesity,Female,163,339.5084
+Extreme Obesity,Female,150,213.8462
+Obesity,Male,179,279.9842
+Normal,Male,165,136.6852
+Extreme Obesity,Male,168,348.3268
+Extreme Obesity,Female,153,293.21180000000004
+Extreme Obesity,Male,184,346.1222
+Weak,Male,188,143.299
+Extreme Obesity,Female,166,337.3038
+Obesity,Female,172,255.73360000000002
+Normal,Male,182,160.9358
+Extreme Obesity,Male,143,328.4854
+Extreme Obesity,Male,152,321.8716
+Obesity,Female,186,282.1888
+Extreme Obesity,Male,159,308.644
+Obesity,Male,146,154.322
+Obesity,Female,176,266.7566
+Extreme Obesity,Female,146,222.6646
+Extreme Obesity,Male,159,319.66700000000003
+Extreme Obesity,Male,162,346.1222
+Obesity,Female,172,198.41400000000002
+Extreme Obesity,Female,169,266.7566
+Extremely Weak,Male,182,110.23
+Normal,Female,183,174.1634
+Normal,Male,176,169.7542
+Obesity,Female,188,282.1888
+Normal,Female,175,182.98180000000002
+Obesity,Male,154,178.57260000000002
+Extreme Obesity,Female,184,324.07620000000003
+Obesity,Male,179,271.1658
+Extreme Obesity,Male,152,291.0072
+Weak,Male,179,123.45760000000001
+Extreme Obesity,Female,145,310.84860000000003
+Normal,Female,181,176.368
+Extreme Obesity,Male,158,279.9842
+Overweight,Female,188,218.2554
+Extreme Obesity,Male,145,313.0532
+Extreme Obesity,Male,161,253.52900000000002
+Overweight,Male,198,240.3014
+Extreme Obesity,Male,147,313.0532
+Extreme Obesity,Male,154,246.91520000000003
+Normal,Female,178,143.299
+Extreme Obesity,Male,195,337.3038
+Overweight,Female,167,174.1634
+Obesity,Male,183,288.80260000000004
+Extreme Obesity,Female,164,313.0532
+Normal,Male,167,141.0944
+Normal,Female,151,121.253
+Extreme Obesity,Female,147,235.8922
+Extreme Obesity,Female,155,253.52900000000002
+Obesity,Female,172,238.0968
+Extreme Obesity,Female,142,189.59560000000002
+Obesity,Male,146,187.39100000000002
+Obesity,Female,188,253.52900000000002
+Obesity,Male,173,244.7106
+Extreme Obesity,Female,160,240.3014
+Normal,Male,187,176.368
+Obesity,Male,198,299.8256
+Extreme Obesity,Female,179,330.69
+Normal,Female,164,130.0714
+Extreme Obesity,Female,146,324.07620000000003
+Extremely Weak,Female,198,110.23
+Weak,Female,170,116.8438
+Extreme Obesity,Male,152,216.0508
+Extreme Obesity,Female,150,337.3038
+Obesity,Female,184,266.7566
+Extreme Obesity,Female,141,299.8256
+Extreme Obesity,Male,150,209.437
+Extreme Obesity,Male,173,288.80260000000004
