@@ -1,4 +1,4 @@
-# python_machinelearning
+# python(machine learning)
 python_smart
   1. exam, untitled : 파이썬 기초문법
 
